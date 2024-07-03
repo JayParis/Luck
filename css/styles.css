@@ -1,5 +1,6 @@
 html {
-    height: 100%
+    height: 100%;
+    background-color: #508D4E;
 }
 
 body {
@@ -13,7 +14,8 @@ body {
     -khtml-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
-    user-select: none
+    user-select: none;
+    background-color: #508D4E;
 }
 
 #container {
@@ -24,12 +26,14 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    overflow: hidden
+    overflow: hidden;
+    background-color: #508D4E;
 }
 
 #frame {
     border: none;
     width: 100%;
     height: 100%;
-    overflow: hidden
+    overflow: hidden;
+    background-color: #508D4E;
 }
