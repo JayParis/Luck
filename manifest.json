@@ -2,7 +2,7 @@
     "name": "PWA Template",
     "short_name": "PWA Template",
     "start_url": "index.html",
-    "pwa_icons":[
+    "icons":[
         {
           "src": "pwa_icons/manifest-icon-192.maskable.png",
           "sizes": "192x192",
